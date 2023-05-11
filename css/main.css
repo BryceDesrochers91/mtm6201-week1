@@ -9,7 +9,12 @@
 }
 
 h1 {
-    background-color: rgb(16, 21, 16);
+    background-color: black;
+    color: white;
+}
+
+ul {
+    background-color: black;
     color: white;
 }
 
@@ -19,4 +24,5 @@ ul li {
 
 p {
     font-size: 33px;
+    color: white;
 }
