@@ -12,8 +12,11 @@ h1 {
     background-color: black;
     color: white;
 }
+ul h2 li {
+    color: white;
+}
 
-ul li {
+ul  li{
     list-style: none;
 }
 
