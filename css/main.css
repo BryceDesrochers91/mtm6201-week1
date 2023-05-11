@@ -11,3 +11,7 @@ h1 {
     background-color: rgb(16, 21, 16);
     color: white;
 }
+
+ul li {
+    list-style: none;
+}
