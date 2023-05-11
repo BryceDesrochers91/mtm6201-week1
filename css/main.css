@@ -19,6 +19,7 @@ h2 {
 ul li{
     list-style: none;
      background-color: lime;
+     font-weight: bold, 1.15px;
 }
 
 p {
