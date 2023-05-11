@@ -2,7 +2,12 @@
     background-color: green;
 }
 
+/*Sets image width to 150px*/
 bd {
     width: 150px;
 }
 
+h1 {
+    background-color: darkseagreen;
+    color: white;
+}
