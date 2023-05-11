@@ -16,8 +16,9 @@ ul h2 li {
     color: white;
 }
 
-ul  li{
+ul  li p{
     list-style: none;
+    color: white;
 }
 
 p {
